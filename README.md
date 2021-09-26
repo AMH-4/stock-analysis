@@ -42,8 +42,8 @@ Once the given files had been downloaded and named appropriately, the following 
 
 ![VBA_Challenge_2017](VBA_Challenge_2017.png)
 
+![VBA_Challenge_2018](VBA_Challenge_2018.png)
 
-![text goes here](https://github.com/AnnaMarieHoward/stock-analysis/blob/main/VBA_Challenge_2017.png)
 
 
 
