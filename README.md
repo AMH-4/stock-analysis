@@ -15,12 +15,20 @@ Steve, a Finance graduate, was in search of a way he could quickly analyze an en
 Using images and examples of your code, compare the stock performance between 2017 and 2018, as well as the execution times of the original script and the refactored script.
 
 With the purpose of this analysis definded, one main deliverable be neccessary to perform. 
-- *Refactor VBA code and measure performance
+- Refactor VBA code and measure performance
 This deliverable will include an updated workbook and a folder with PNGs of the pop-ups with script run time.
 
-The following septs were taken to perfomr the above necessary deliverables chronologically :
+Once the given files had been downloaded and named appropriately, the following septs were taken to perfomr the above necessary deliverables chronologically :
+ 
+Step 1a:
 
+Create a tickerIndex variable and set it equal to zero before iterating over all the rows. You will use this tickerIndex to access the correct index across the four different arrays you’ll be using: the tickers array and the three output arrays you’ll create in Step 1b.
 
+Step 1b:
+
+Create three output arrays: tickerVolumes, tickerStartingPrices, and tickerEndingPrices.
+The tickerVolumes array should be a Long data type.
+The tickerStartingPrices and tickerEndingPrices arrays should be a Single data type.
 
 
 
