@@ -13,7 +13,7 @@ Steve, a Finance graduate, was in search of a way he could quickly analyze an en
 ## Results:
 With the purpose of this analysis definded, one main deliverable be neccessary to perform. 
 - Refactor VBA code and measure performance
--- This deliverable will include an updated workbook and a folder with PNGs of the pop-ups with script run time.
+This deliverable will include an updated workbook and a folder with PNGs of the pop-ups with script run time.
 
 Once the given files had been downloaded and named appropriately, the following septs were taken to perfomr the above necessary deliverables chronologically :
 
