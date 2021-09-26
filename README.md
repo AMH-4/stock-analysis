@@ -116,6 +116,9 @@ Next i
 
 
 
+## Results Analysis:
+
+The focus of this challenge project was to determine and compare the effectivness of the orginal code script to the refactored code script. A refactored code script allows the user to automate analysis and reduce the chance of accidents and/or errors. As seen in the screen-shot images above, the orgianal code script did run faster than the refactored code script. However, faster does not always mean more efficient. The orginal code script, while good for analysis of 12 stocks, was not built to analyze a robust amount of data. Refactoring the code script means that the user/client/Steve can perform analysis of a larger data set (the entire stock market). 
 
 
 
