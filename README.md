@@ -23,16 +23,16 @@ Once the given files had been downloaded and named appropriately, the following 
 1. (Step 1a.)Create a tickerIndex variable and set it equal to zero before iterating over all the rows. You will use this tickerIndex to access the correct index across the four different arrays you’ll be using: the tickers array and the three output arrays you’ll create in Step 1b.
 
 
-'Dim tickerIndex As Single'
-'tickerIndex = 0'
+`Dim tickerIndex As Single`
+`tickerIndex = 0`
 
 
 2. (Setp 1b.)Create three output arrays: tickerVolumes, tickerStartingPrices, and tickerEndingPrices. The tickerVolumes array should be a Long data type. The tickerStartingPrices and tickerEndingPrices arrays should be a Single data type.
 
 
-'Dim tickerVolumes(12) As Long'
-'Dim tickerStartingPrices(12) As Single'
-'Dim tickerEndingPrices(12) As Single'
+`Dim tickerVolumes(12) As Long`
+`Dim tickerStartingPrices(12) As Single`
+`Dim tickerEndingPrices(12) As Single`
 
 
 3. (Step 2a.)Create a for loop to initialize the tickerVolumes to zero.
