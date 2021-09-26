@@ -101,12 +101,18 @@ Cells(i + 4, 3).Value = tickerEndingPrices(tickerIndex) / tickerStartingPrices(t
 Next i 
 ```
 
-10. Finally, run the stock analysis, then confirm that your stock analysis outputs for 2017 and 2018 are the same as they were in the module. Savethe pop-up messages showing elapsed run time for the refactored code for each year. *Below are the screen-shot images of the results and run time from the code ran above.*
+10. Finally, run the stock analysis, then confirm that your stock analysis outputs for 2017 and 2018 are the same as they were in the module. Savethe pop-up messages showing elapsed run time for the refactored code for each year. 
 
+*Below are the screen-shot images of the run times from the origninal code script ran in Modlule 2 for both 2017 and 2018.*
+![VBA_Module2_2017OriginalRun](VBA_Module2_2017OriginalRun.png
+![VBA_Module2_2018OriginalRun](VBA_Module2_2017OriginalRun.png
+
+*Below are the screen-shot images of the run times from the refactored code script ran in this Challenge for both 2017 & 2018.*
 ![VBA_Challenge_2017](VBA_Challenge_2017.png)
-![VBA Challenge_2017Results](VBA_Challenge_2017Results.png)
-
 ![VBA_Challenge_2018](VBA_Challenge_2018.png)
+
+*Below are the screen-shot images of the reults of the code script for both 2017 and 2018.*
+![VBA Challenge_2017Results](VBA_Challenge_2017Results.png)
 ![VBA Challenge_2018Results](VBA_Challenge_2018Results.png)
 
 
