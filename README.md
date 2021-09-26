@@ -22,7 +22,18 @@ Once the given files had been downloaded and named appropriately, the following 
 
 1. (Step 1a.)Create a tickerIndex variable and set it equal to zero before iterating over all the rows. You will use this tickerIndex to access the correct index across the four different arrays you’ll be using: the tickers array and the three output arrays you’ll create in Step 1b.
 
+'''
+Dim tickerIndex As Single
+tickerIndex = 0
+'''
+
 2. (Setp 1b.)Create three output arrays: tickerVolumes, tickerStartingPrices, and tickerEndingPrices. The tickerVolumes array should be a Long data type. The tickerStartingPrices and tickerEndingPrices arrays should be a Single data type.
+
+'''
+Dim tickerVolumes(12) As Long
+Dim tickerStartingPrices(12) As Single
+Dim tickerEndingPrices(12) As Single
+'''
 
 3. (Step 2a.)Create a for loop to initialize the tickerVolumes to zero.
 
@@ -37,6 +48,8 @@ Once the given files had been downloaded and named appropriately, the following 
 8. (Step 3d.)Write a script that increases the tickerIndex if the next row’s ticker doesn’t match the previous row’s ticker.
 
 9. (Step 4.)Use a for loop to loop through your arrays (tickers, tickerVolumes, tickerStartingPrices, and tickerEndingPrices) to output the “Ticker,” “Total Daily Volume,” and “Return” columns in your spreadsheet.
+
+
 
 10. Finally, run the stock analysis, then confirm that your stock analysis outputs for 2017 and 2018 are the same as they were in the module. Savethe pop-up messages showing elapsed run time for the refactored code for each year. *Below are the screen-shot images of the results and run time from the code ran above.*
 
