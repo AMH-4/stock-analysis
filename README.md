@@ -41,8 +41,10 @@ Once the given files had been downloaded and named appropriately, the following 
 10. Finally, run the stock analysis, then confirm that your stock analysis outputs for 2017 and 2018 are the same as they were in the module. Savethe pop-up messages showing elapsed run time for the refactored code for each year. *Below are the screen-shot images of the results and run time from the code ran above.*
 
 ![VBA_Challenge_2017](VBA_Challenge_2017.png)
+![VBA Challenge_2017Results](VBA_Challenge_2017Results.png)
 
 ![VBA_Challenge_2018](VBA_Challenge_2018.png)
+![VBA Challenge_2018Results](VBA_Challenge_2018Results.png)
 
 
 
