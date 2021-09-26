@@ -15,7 +15,7 @@ Steve, a Finance graduate, was in search of a way he could quickly analyze an en
 Using images and examples of your code, compare the stock performance between 2017 and 2018, as well as the execution times of the original script and the refactored script.
 
 With the purpose of this analysis definded, one main deliverable be neccessary to perform. 
--1. Refactor VBA code and measure performance
+- 1. Refactor VBA code and measure performance
 This deliverable will include an updated workbook and a folder with PNGs of the pop-ups with script run time.
 
 The following septs were taken to perfomr the above necessary deliverables chronologically :
