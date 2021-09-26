@@ -12,8 +12,33 @@ Steve, a Finance graduate, was in search of a way he could quickly analyze an en
 
 ## Results:
 
-
+Using images and examples of your code, compare the stock performance between 2017 and 2018, as well as the execution times of the original script and the refactored script.
   
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
 
 ## Summary:
 
