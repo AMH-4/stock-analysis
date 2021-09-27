@@ -116,16 +116,9 @@ Next i
 #### *Analysis:*
 The focus of this challenge project was to determine and compare the effectivness of the orginal code script to the refactored code script. A refactored code script allows the user to automate analysis and reduce the chance of accidents and/or errors. As seen in the screen-shot images below, the orgianal code script did run faster than the refactored code script. However, faster does not always mean more efficient. The orginal code script, while good for analysis of 12 stocks, was not built to analyze a robust amount of data. Refactoring the code script means that the user/client/Steve can perform analysis of a larger data set (the entire stock market). 
 
-
-
-
-
-
-
-
-
-
 ## Summary:
 
-  ### What are the advantages or disadvantages of refactoring code?
-  ### How do these pros and cons apply to refactoring the original VBA script?
+In summary, there are advantages and disadvantages of refactoring code script as evident from the results analysis. The advantages of refactoring code scripts lie in the code script's effictivenes. Refactoring code can create a clean code script that is easy to ready and understand. Additionaly the refactored code will allows for ease of maintaince. The refactored code in this project challenge also has its advantage to handle larger amounts of data. With these advantages, refactoring code seems to be the answer to most situational issues. However, if speed is of upmost importance  in a VBA data script, then refactoring the code script may not be the anser. This is the main disadvantage of refactoring code. 
+
+Understanding the needs of the code script at hand the the purpose of the project can help determin if refactoring code is best practice for the situation at hand. With the purpose of this challenge in minde, it becomes clear that refactoring the Module 2 code script for Steve is necessary. Although the run time is longer in this challenges refactored code script, a few extra sconds of time is not a critical factor to our client Steve. The advantages of refactoring the orginial VBA code script align with Steves's wants/needs to analyze a robust amount of data (the entire stock market). Altogether, refactoring the orginal VBA code scripts was a necessity in order to achieve the highl level of efficient analysis declared.  
+
